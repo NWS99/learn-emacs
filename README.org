@@ -1,0 +1,5 @@
+#+title: learn-emacs
+
+* Short Description
+
+This Repo will be used to practice emacs as development environment as well as notetaking tool
