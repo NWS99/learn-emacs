@@ -2,5 +2,8 @@
 
 * Background
 * Fundamentals
+** Org-Mode
+** Distributions
+** ELisp
 * Advanced Usage
 * Mastery
