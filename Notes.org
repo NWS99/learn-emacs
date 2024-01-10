@@ -1,9 +1,14 @@
 #+title: Notes
 
-* Background
+* Useful Resources
+** [[https://www.masteringemacs.org/][Mastering Emacs]]
+** [[https://www.emacswiki.org][Emacs Wiki]]
+** [[https:www.gnu.org/software/emacs/documentation.html][GNU Emacs - Documentation]]
 * Fundamentals
 ** Org-Mode
 ** Distributions
+*** Doom Emacs
+*** Spacemacs
 ** ELisp
 * Advanced Usage
 * Mastery
