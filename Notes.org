@@ -10,5 +10,8 @@
 *** Doom Emacs
 *** Spacemacs
 ** ELisp
+*** Relations
+**** LISP
+**** Scheme
 * Advanced Usage
 * Mastery
