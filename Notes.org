@@ -6,6 +6,11 @@
 ** [[https:www.gnu.org/software/emacs/documentation.html][GNU Emacs - Documentation]]
 * Fundamentals
 ** Org-Mode
+*** Litterate Programming
+#+BEGIN_SRC python
+print("hello")
+#+END_SRC
+*** org-babel-tangle
 ** Distributions
 *** Doom Emacs
 *** Spacemacs
